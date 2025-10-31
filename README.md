@@ -1,4 +1,4 @@
-# Amazon Retail Databricks + Azure Data Factory Project — Medallion Architecture with Unity Catalog
+# Amazon Retail ETL Databricks + Azure Data Factory Project — Medallion Architecture with Unity Catalog
 
 ## 🚀 Overview
 This beginner friendly end-to-end project demonstrates how to build a **production-ready ETL pipeline** using **Azure Data Factory**, **Azure Databricks**, and **Delta Lake**, following the **Medallion Architecture** (Bronze → Silver → Gold).  
