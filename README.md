@@ -47,7 +47,6 @@ Each step writes to **ADLS Gen2 in Parquet/Delta format**, enabling downstream D
 
 ### 4️⃣ Data Visualization
 - Connected **Power BI** to Gold tables using DirectQuery
-- Created dashboards with DAX-based measures and visual analytics
 
 ---
 
@@ -60,7 +59,7 @@ Each step writes to **ADLS Gen2 in Parquet/Delta format**, enabling downstream D
 | Processing | Azure Databricks (PySpark, Delta Lake) |
 | Governance | Unity Catalog |
 | Database | Azure SQL Database |
-| Visualization | Power BI (Data Modeling, DAX) |
+| Visualization | Power BI |
 
 ---
 
@@ -97,7 +96,6 @@ Each step writes to **ADLS Gen2 in Parquet/Delta format**, enabling downstream D
 | `notebooks/` | Databricks notebooks for each Medallion layer |
 | `assets/` | Contains ADF and architecture diagrams |
 | `README.md` | Project documentation |
-| `LICENSE` | Optional open-source license |
 
 ---
 
